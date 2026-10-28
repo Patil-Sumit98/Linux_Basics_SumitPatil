@@ -19,5 +19,4 @@ A practical lab assignment demonstrating essential Linux command-line operations
 .
 ├── test_dir/
 │   └── renamed_example.txt
-├── scripts/              # (Optional) Any custom automation shell scripts
 └── README.md             # Documentation and command walkthrough
